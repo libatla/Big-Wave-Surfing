@@ -1,0 +1,21 @@
+img {
+	width:300px;
+	border: 2px solid blue;
+}
+body {
+	background-image: url("https://media.istockphoto.com/id/1278022309/photo/great-view-of-woman-jumping-over-big-splashing-wave-on-surf-style-wakeboard.jpg?b=1&s=170667a&w=0&k=20&c=OMhMx9ZbLH38f_EuU8kGd-EhvOBZYro_MEkEkoLBsWM=");
+min-height: 100%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+font-family: 'Aclonica';
+}
+.red{
+	color:red;
+	font-size:32px;
+}
+#specialstyle {
+	border: 2px solid red;
+	background-color: yellow;
+}
